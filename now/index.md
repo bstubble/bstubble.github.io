@@ -7,6 +7,7 @@
 
 ### Education
 - Master of Science in Business Cybersecurity (in-progress)
+- SANS SEC566 - Implementing and Auditing CIS Controls (completed)
 
 ### Personal Projects
 - Pwnagotchi
