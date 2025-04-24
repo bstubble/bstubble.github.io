@@ -7,8 +7,7 @@
 
 ### Education
 - Master of Science in Business Cybersecurity (in-progress)
-- SANS SEC566 - Implementing and Auditing CIS Controls (completed)
-- Currently looking for another SANS course to take during the summer...
+- Currently looking for a SANS course to take during the summer...
   - Courses I'm considering:
       - SEC501: Advanced Security Essentials - Enterprise Defender
       - SEC504: Hacker Tools, Techniques, and Incident Handling
