@@ -8,6 +8,7 @@
 
 ### Education
 - Master of Science in Business Cybersecurity (graduating December 2025!)
+- Researching certifications
 
 ### Personal Projects
 - Experimenting with Google Antigravity
