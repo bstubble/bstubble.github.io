@@ -1,17 +1,24 @@
 # What I'm up to now...
 
 ### Work Related
-- Horizon3 NodeZero
-- CIS Controls IG1+
-- M365 AST
-- AI-moderated tabletop exercises
+- New job at UTK!
+- GRC
+- CMMC L2
+- CIS Critical Security Controls
+- PCI DSS
+- GRC tool POCs
 
 ### Education
-- Master of Science in Business Cybersecurity (graduating December 2025!)
+- Master of Science in Business Cybersecurity - December 2025
 - Researching certifications
+  - PCI ISA
+  - Security+
+  - CISM
+  - CISA
+  - CISSP
 
-### Personal Projects
+### Personal Projects / Activities
 - Experimenting with Google Antigravity
-- Pwnagotchi
-- Flipper Zero
-- Gardening
+- Using the Kinnu app to learn about new topics of interest
+- Currently reading *Undaunted Courage* by Stephen E. Ambrose
+- Just finished *South: The ENDURANCE Expedition* by Ernest Shackleton
