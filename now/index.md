@@ -20,5 +20,6 @@
 ### Personal Projects / Activities
 - Experimenting with Google Antigravity
 - Using the Kinnu app to learn about new topics of interest
+- Weight training and cardio to prepare for an upcoming hike
 - Currently reading *Undaunted Courage* by Stephen E. Ambrose
 - Just finished *South: The ENDURANCE Expedition* by Ernest Shackleton
