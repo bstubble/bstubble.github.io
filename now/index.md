@@ -10,15 +10,18 @@
 
 ### Education
 - Master of Science in Business Cybersecurity - December 2025
-- Researching certifications
+- In progress
   - PCI ISA
+  - CIGO/AI-A
+
+- Researching additional certifications
   - Security+
   - CISM
   - CISA
   - CISSP
 
 ### Personal Projects / Activities
-- Experimenting with Google Antigravity
+- Finished installing EndeavourOS (Tital) on my personal laptop
 - Using the Kinnu app to learn about new topics of interest
 - Weight training and cardio to prepare for an upcoming hike
 - Currently reading *Undaunted Courage* by Stephen E. Ambrose
