@@ -24,5 +24,9 @@
 - Intalled and daily driving EndeavourOS on my personal laptop
 - Using the Kinnu app to learn about new topics of interest
 - Weight training and cardio to prepare for an upcoming hike
-- Currently reading *Undaunted Courage* by Stephen E. Ambrose
-- Just finished *South: The ENDURANCE Expedition* by Ernest Shackleton
+
+#### Recent Books
+- Currently reading *Hell on ice : The saga of the "Jeannette"* by Edward Ellsberg
+- *Countdown to Zero Day : Stuxnet and the launch of the world's first digital weapon* by Kim Zetter
+- *Undaunted Courage* by Stephen E. Ambrose
+- *South: The ENDURANCE Expedition* by Ernest Shackleton
