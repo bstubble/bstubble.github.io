@@ -2,7 +2,6 @@
 
 ### Work Related
 - GRC
-- CMMC L2 assessment prep
 - CIS Critical Security Controls
 - PCI DSS
 - GRC tool POCs
@@ -12,15 +11,17 @@
 - Master of Science in Business Cybersecurity - December 2025
 - CIGO/AI-A - May 2026
 - PCI ISA - June 2026
+- PCIP - June 2026
 
 - Researching additional certifications
   - Security+
   - CISA
+  - CGRC
   - CISM
   - CISSP
 
 ### Personal Projects / Activities
-- Intalled and daily driving EndeavourOS (Titan) on my personal laptop
+- Intalled and daily driving EndeavourOS on my personal laptop
 - Using the Kinnu app to learn about new topics of interest
 - Weight training and cardio to prepare for an upcoming hike
 - Currently reading *Undaunted Courage* by Stephen E. Ambrose
