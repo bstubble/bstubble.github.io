@@ -27,7 +27,7 @@
 - Replacing struts and motor mounts on my car soon
 
 ### Recent Books
-- Currently reading *Hell on ice : The saga of the "Jeannette* by Edward Ellsberg
+- Currently reading *Hell on ice : The saga of the Jeannette* by Edward Ellsberg
 - *The Ruthless Elimination of Hurry* by John Mark Comer
 - *Countdown to Zero Day : Stuxnet and the launch of the world's first digital weapon* by Kim Zetter
 - *Undaunted Courage* by Stephen E. Ambrose
