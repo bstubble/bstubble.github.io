@@ -28,7 +28,8 @@
 - Replacing struts and motor mounts on my car soon
 
 ### Recent Books (2026)
-- Currently reading *Hogs in the Sand* by Buck Wyndham
+- Currently reading *Signal Red* by Robert Ryan
+- *Hogs in the Sand* by Buck Wyndham
 - *Midnight in Chernobyl* by Adam Higginbotham
 - *Eruption* by Michael Crichton and James Patterson
 - *Hell on ice : The saga of the Jeannette* by Edward Ellsberg
