@@ -28,13 +28,16 @@
 - Replacing struts and motor mounts on my car soon
 
 ### Recent Books (2026)
-- Currently reading *Signal Red* by Robert Ryan
+- Currently reading *A House in Space* by Henry S.F. Cooper, Jr.
+- Currently listening to *The Wager* by David Grann
+- *Signal Red* by Robert Ryan
 - *Hogs in the Sand* by Buck Wyndham
 - *Midnight in Chernobyl* by Adam Higginbotham
 - *Eruption* by Michael Crichton and James Patterson
 - *Hell on ice : The saga of the Jeannette* by Edward Ellsberg
 - *Practicing the Way* by John Mark Comer
 - *The Ruthless Elimination of Hurry* by John Mark Comer
-- *Countdown to Zero Day : Stuxnet and the launch of the world's first digital weapon* by Kim Zetter
+- *Countdown to Zero Day: Stuxnet and the launch of the world's first digital weapon* by Kim Zetter
+- *Seven into Space: The Story of the Mercury Astronauts* by Joseph N. Bell
 - *Undaunted Courage* by Stephen E. Ambrose
 - *South: The ENDURANCE Expedition* by Ernest Shackleton
