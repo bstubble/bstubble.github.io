@@ -29,7 +29,8 @@
 
 ### Recent Books (2026)
 - Currently reading *A House in Space* by Henry S.F. Cooper, Jr.
-- Currently listening to *The Wager* by David Grann
+- *The Ghost Soldiers* by Hampton Sides
+- *The Wager* by David Grann
 - *Signal Red* by Robert Ryan
 - *Hogs in the Sand* by Buck Wyndham
 - *Midnight in Chernobyl* by Adam Higginbotham
