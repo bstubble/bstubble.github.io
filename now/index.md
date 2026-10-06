@@ -7,6 +7,7 @@
 - GRC tool POCs
 - Risk assessments
 - CMMC L2 / NIST SP 800-171 Rev 2
+- AI agent utilizing API calls
 
 ### Education
 - Master of Science in Business Cybersecurity - December 2025
