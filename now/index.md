@@ -28,7 +28,8 @@
 - Replacing struts and motor mounts on my car soon
 
 ### Recent Books (2026)
-- Currently reading *A House in Space* by Henry S.F. Cooper, Jr.
+- Currently reading *The Exemplary Husband* by Stuart Scott
+- *A House in Space* by Henry S.F. Cooper, Jr.
 - *The Ghost Soldiers* by Hampton Sides
 - *The Wager* by David Grann
 - *Signal Red* by Robert Ryan
