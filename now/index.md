@@ -30,16 +30,18 @@
 ### Recent Books (2026)
 - Currently reading *The Exemplary Husband* by Stuart Scott
 - *A House in Space* by Henry S.F. Cooper, Jr.
-- *The Ghost Soldiers* by Hampton Sides
-- *The Wager* by David Grann
+- *The Ghost Soldiers* by Hampton Sides (AB)
+- *The Wager* by David Grann (AB)
 - *Signal Red* by Robert Ryan
 - *Hogs in the Sand* by Buck Wyndham
-- *Midnight in Chernobyl* by Adam Higginbotham
+- *Midnight in Chernobyl* by Adam Higginbotham (AB)
 - *Eruption* by Michael Crichton and James Patterson
 - *Hell on ice : The saga of the Jeannette* by Edward Ellsberg
-- *Practicing the Way* by John Mark Comer
-- *The Ruthless Elimination of Hurry* by John Mark Comer
-- *Countdown to Zero Day: Stuxnet and the launch of the world's first digital weapon* by Kim Zetter
+- *Practicing the Way* by John Mark Comer (AB)
+- *The Ruthless Elimination of Hurry* by John Mark Comer (AB)
+- *Countdown to Zero Day: Stuxnet and the launch of the world's first digital weapon* by Kim Zetter (AB)
 - *Seven into Space: The Story of the Mercury Astronauts* by Joseph N. Bell
 - *Undaunted Courage* by Stephen E. Ambrose
 - *South: The ENDURANCE Expedition* by Ernest Shackleton
+
+  AB = Audiobook
