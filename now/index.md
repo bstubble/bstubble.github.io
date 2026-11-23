@@ -4,7 +4,7 @@
 - GRC
 - CIS Critical Security Controls
 - PCI DSS
-- GRC tool POCs
+- GRC tool onboarding
 - Risk assessments
 - CMMC L2 / NIST SP 800-171 Rev 2
 - AI agent utilizing API calls
@@ -16,6 +16,7 @@
 - PCIP - June 2026
 
 - Researching additional certifications
+  - Project+
   - Security+
   - CISA
   - CGRC
@@ -26,10 +27,11 @@
 - Intalled and daily driving EndeavourOS on my personal laptop
 - Using the Kinnu app to learn about new topics of interest
 - Resuming weight training and cardio to maintain gains during hike prep
-- Replacing struts and motor mounts on my car soon
+- Replaced struts, motor mounts, swaybar links, and front lower control arms on my car
 
 ### Recent Books (2026)
 - Currently reading *The Exemplary Husband* by Stuart Scott
+- *The Last Punisher* by Kevin Lacz
 - *A House in Space* by Henry S.F. Cooper, Jr.
 - *The Ghost Soldiers* by Hampton Sides (AB)
 - *The Wager* by David Grann (AB)
