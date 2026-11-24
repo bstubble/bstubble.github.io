@@ -1,7 +1,8 @@
 # What I'm up to now...
 
-### Work Related
+### Work-Related
 - GRC
+- System-wide vendor onboarding project
 - CIS Critical Security Controls
 - PCI DSS
 - GRC tool onboarding
@@ -24,14 +25,16 @@
   - CISSP
 
 ### Personal Projects / Activities
-- Intalled and daily driving EndeavourOS on my personal laptop
+- Daily driving EndeavourOS on my personal laptop
+- Considering CachyOS on another laptop
 - Using the Kinnu app to learn about new topics of interest
 - Resuming weight training and cardio to maintain gains during hike prep
 - Replaced struts, motor mounts, swaybar links, and front lower control arms on my car
 
 ### Recent Books (2026)
-- Currently reading *The Exemplary Husband* by Stuart Scott
-- *The Last Punisher* by Kevin Lacz
+- Currently reading *On the Edge* by Richard Hammond
+- (On Hold) *The Exemplary Husband* by Stuart Scott
+- *The Last Punisher* by Kevin Lacz (AB)
 - *A House in Space* by Henry S.F. Cooper, Jr.
 - *The Ghost Soldiers* by Hampton Sides (AB)
 - *The Wager* by David Grann (AB)
@@ -39,7 +42,7 @@
 - *Hogs in the Sand* by Buck Wyndham
 - *Midnight in Chernobyl* by Adam Higginbotham (AB)
 - *Eruption* by Michael Crichton and James Patterson
-- *Hell on ice : The saga of the Jeannette* by Edward Ellsberg
+- *Hell on ice : The Saga of the Jeannette* by Edward Ellsberg
 - *Practicing the Way* by John Mark Comer (AB)
 - *The Ruthless Elimination of Hurry* by John Mark Comer (AB)
 - *Countdown to Zero Day: Stuxnet and the launch of the world's first digital weapon* by Kim Zetter (AB)
